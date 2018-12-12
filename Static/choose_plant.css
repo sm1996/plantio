@@ -1,0 +1,11 @@
+.check_box{
+  display:none;
+}
+
+.check_box + label{
+  padding:5px;
+}
+
+.check_box:checked + label{
+  padding:5px;
+}
